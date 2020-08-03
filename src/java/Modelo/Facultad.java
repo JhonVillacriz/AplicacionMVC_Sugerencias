@@ -9,12 +9,6 @@ package Modelo;
  *
  * @author MONARCA
  */
-public class Condicion {
-    private int idecondicion;
-    private String nombre;
-    
-// contructutor vacio
-    public Condicion() {
-    }
+public class Facultad {
     
 }

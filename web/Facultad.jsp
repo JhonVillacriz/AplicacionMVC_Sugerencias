@@ -1,8 +1,4 @@
-<%-- 
-    Document   : Facultad
-    Created on : 03/08/2020, 10:28:34 AM
-    Author     : MONARCA
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
